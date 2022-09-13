@@ -1,0 +1,7 @@
+novel|50
+drawing books|25
+sketch pen|35
+scale|40
+pen|50
+notebook|25
+pencil box|28
